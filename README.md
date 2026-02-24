@@ -3,12 +3,18 @@ A passionate AI Engineer || DevOps Engineer || Akhil from India
 
 Email Me 👉 ✉️ cakhileshkumar123@gmail.com For Collaboration/Project or Anything Else. 😊😊
 
-🔭 I’m currently working on: Building LLMs
+🔭 I’m currently working on: Building LLMs 
+
 🌱 I’m currently learning: ---
+
 👯 I’m looking to collaborate on: ML projects and devops
+
 🤔 I’m looking for help with: AI projects
+
 💬 Ask me about: Collaboration, Tech Support
+
 📫 How to reach me: cakhileshkumar123@gmail.com
+
 ⚡ Fun fact: I Love Tech and Tech Love Me
 
 
