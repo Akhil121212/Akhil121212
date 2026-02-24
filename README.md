@@ -34,6 +34,9 @@ Email Me 👉 ✉️ cakhileshkumar123@gmail.com For Collaboration/Project or An
 ![](https://nirzak-streak-stats.vercel.app/?user=Akhil121212&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akhil121212&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+## 📈 Contribution Graph
+![Akhil's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Akhil121212&theme=tokyo-night)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Akhil121212&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
