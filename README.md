@@ -37,6 +37,9 @@ Email Me 👉 ✉️ cakhileshkumar123@gmail.com For Collaboration/Project or An
 ## 📈 Contribution Graph
 ![Akhil's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Akhil121212&theme=tokyo-night)
 
+## profile views
+![Profile Views](https://komarev.com/ghpvc/?username=Akhil121212&color=blue)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Akhil121212&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
