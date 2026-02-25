@@ -27,6 +27,9 @@ Email Me 👉 ✉️ cakhileshkumar123@gmail.com For Collaboration/Project or An
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Akhil121212&theme=tokyonight)
+
+
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
