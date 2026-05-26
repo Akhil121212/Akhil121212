@@ -92,23 +92,35 @@
 </div>
 
 ---
-
-## `> git stats --global`
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Akhil121212&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" height="180" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhil121212&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" height="180" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Akhil121212&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" 
+    height="165"
+    alt="GitHub Stats"
+  />
 
-<br/><br/>
+  <img 
+    src="https://nirzak-streak-stats.vercel.app/?user=Akhil121212&theme=vision-friendly-dark&hide_border=true&cache_seconds=86400" 
+    height="165"
+    alt="GitHub Streak"
+  />
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Akhil121212&theme=github-dark-blue&hide_border=false&border=30363d&background=0d1117&stroke=30363d&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
+</div>
+
+<div align="center">
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhil121212&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cache_seconds=86400" 
+    height="165"
+    alt="Top Languages"
+  />
 
 </div>
 
 ---
-
 ## `> show contributions`
 
 <div align="center">
@@ -117,14 +129,23 @@
 
 ---
 
-## `> trophy --list`
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Akhil121212&theme=algolia&no-frame=false&no-bg=true&margin-w=8&row=1&column=7" width="100%" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=Akhil121212&theme=radical&no-frame=true&no-bg=true&margin-w=4" 
+    alt="GitHub Trophies"
+  />
 </div>
 
 ---
 
+<div align="center">
+  <img 
+    src="https://visitcount.itsvg.in/api?id=Akhil121212&icon=0&color=0" 
+    alt="Profile Views"
+  />
+</div>
 ## `> cat certifications.md`
 
 <div align="center">
@@ -138,13 +159,28 @@
 
 ---
 
-## `> top --contributions`
+## > top --contributions
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Akhil121212&limit=5&theme=github_dark&combine_all_yearly_contributions=true&hide_border=true" />
+  <img 
+    src="https://github-contributor-stats.vercel.app/api?username=Akhil121212&limit=5&theme=github_dark&combine_all_yearly_contributions=true&hide_border=true" 
+    alt="Top Contributions"
+  />
 </div>
 
 ---
+
+### 🚀 Featured Projects
+
+#### **PicknDrop – Peer-to-Peer Vehicle Rental Platform**
+ `React` `Node.js` `MongoDB` `Razorpay`
+>Full-stack rental platform with multi-role workflows for renters, vehicle owners, and admins.Implements a lifecycle-driven booking system with secure payment verification, extension handling, and conflict-safe state management.
+
+
+#### **2. CampusIQ – AI-Powered Academic Platform**
+ `React` `Node.js` `MongoDB` `LLaMA3`
+> Personalized academic platform that filters study content based on student profile (regulation, branch, year, semester).
+> Features an AI tutor delivering structured exam answers and real-time streaming responses with prompt-driven intelligence.
 
 ## `> fortune --dev`
 
@@ -155,6 +191,7 @@
 </div>
 
 ---
+
 
 <div align="center">
 
