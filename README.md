@@ -138,24 +138,36 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Akhil121212&theme=merko&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&border_color=00d4ff&bg_color=0a0a0f&title_color=00d4ff&text_color=64ffda&icon_color=00d4ff&cache_seconds=86400" height="180" alt="GitHub Stats"/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=Akhil121212&theme=merko&hide_border=false&border=00d4ff&background=0A0A0F&ring=00d4ff&fire=ff6b35&currStreakLabel=64ffda&sideLabels=64ffda&dates=888&cache_seconds=86400" height="180" alt="GitHub Streak"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=📡+Fetching+live+data+from+GitHub+API...;⚡+Rendering+contribution+matrix...;🔥+Stats+loaded+successfully!" alt="Stats Loading" />
 
 </div>
+
+<br/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhil121212&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=donut&border_color=00d4ff&bg_color=0a0a0f&title_color=00d4ff&text_color=64ffda&cache_seconds=86400" height="200" alt="Top Languages"/>
+<img src="https://streak-stats.demolab.com/?user=Akhil121212&theme=dark&hide_border=false" alt="GitHub Streak" />
 
 </div>
 
----
+<br/>
+
+
 
 ## `🏆 > fetch-trophies --legendary`
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Akhil121212&theme=matrix&no-frame=false&no-bg=false&margin-w=8&margin-h=8&column=7&row=1" width="100%" alt="GitHub Trophies"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=🏆+Calculating+achievement+score...;💎+Unlocking+legendary+trophies...;👑+Trophy+case+loaded!" alt="Trophy Loading" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Akhil121212&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+
 </div>
 
 ---
@@ -171,7 +183,17 @@
 ## `🥇 > show-top-contributions`
 
 <div align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=Akhil121212&limit=5&theme=merko&combine_all_yearly_contributions=true&hide_border=false" alt="Top Contributions" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&duration=2500&pause=1000&color=64FFDA&center=true&vCenter=true&width=600&lines=🔍+Scanning+repository+impact...;📦+Measuring+commit+depth...;🚀+Top+repos+identified!" alt="Contrib Loading" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-contributor-stats.vercel.app/api?username=Akhil121212&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+
 </div>
 
 ---
